@@ -12,9 +12,12 @@ workaround to the tight restrictions on file access.
 
 ## TO USE
 
-i'm not personally well-versed in anything maintech, all i know is that you download a
-strictly non-filtered .tab file from the maintech website, and you put the file in the
-same location as the executable. right outside the 'includes' folder
+go to the releases tab of the github page here, and download the current version. extract
+the .zip to your desktop, put your .tab file in the folder.
+
+i'm not personally well-versed in anything maintech or how to get the .tab, all i know is 
+that you download a strictly non-filtered .tab file from the maintech website, and you put 
+the file in the same location as the executable. right outside the 'includes' folder.
 
 ## CONTROLS
 
